@@ -1,0 +1,20 @@
+http://www.runoob.com/design-pattern/design-pattern-intro.html
+
+创建型模式 Creational Patterns
+结构性模式 Structural Patterns	
+行为型模式 Behavioral Patterns
+
+一、创建型模式
+这些设计模式提供了一种在创建对象的同时隐藏创建逻辑的方式，而不是使用new运算符直接实例化对象。这使得程序在判断针对某个给定实例需要创建哪些对象时更加灵活。
+包含模式：
+
+
+二、结构型模式
+这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式
+包含模式：
+Facade Pattern 外观模式（门面模式）
+
+
+三、行为型模式
+这些设计模式特别关注对象之间的通信
+包含模式：
