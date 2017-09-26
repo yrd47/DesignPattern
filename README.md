@@ -5,7 +5,7 @@ http://www.runoob.com/design-pattern/design-pattern-intro.html
 
 已学列表  
 Creational Patterns  
-
+--Simple Factory Pattern  
 
 Structural Patterns  
 --Facade pattern  
