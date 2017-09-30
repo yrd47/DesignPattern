@@ -8,6 +8,7 @@ Creational Patterns
 --Simple Factory Pattern  
 
 Structural Patterns  
+--Adapter pattern  
 --Facade pattern  
 
 Behavioral Patterns
