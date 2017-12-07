@@ -8,7 +8,8 @@ package CSDN.example;
 public class client {
 
     public static void main(String[] args) {
-        Product product = Factory.getProduct("A");
+        Product product;
+        product = Factory.getProduct("A");
         product.methodSame();
         product.methodDiff();
     }

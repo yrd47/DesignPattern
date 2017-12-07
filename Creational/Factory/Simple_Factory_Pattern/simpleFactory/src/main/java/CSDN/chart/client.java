@@ -6,7 +6,9 @@ package CSDN.chart;
 public class client {
 
     public static void main(String[] args) {
-        Chart chart1 = ChartFactory.getChart("histogram");
+        String type = XMLUtil.getChartType();
+        System.out.println(type);
+        Chart chart1 = ChartFactory.getChart(type);
         chart1.display();
         Chart chart2 = ChartFactory.getChart("pie");
         chart2.display();
