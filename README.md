@@ -50,11 +50,13 @@ GoF设计模式只有23个。根据用途可分为创建型(Creational)，结构
 ### Creational Patterns  
 * Simple Factory Pattern 
 * Factory Method Pattern
+* Abstract Factory Pattern
 * Singleton Pattern 
 
 ### Structural Patterns  
 * Adapter pattern  
 * Facade pattern  
+* Decorator pattern
 
 ### Behavioral Patterns
 
